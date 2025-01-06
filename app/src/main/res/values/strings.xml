@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll">Roll</string>
+    <string name="entrez_un_nombre_entre_2_et_12">Entrez un nombre entre 2 et 12</string>
+    <string name="you_win_la_somme_est">You win! La somme est %1$s</string>
+    <string name="you_lose_la_somme_est_r_essayez">You lose! La somme est %1$s. Réessayez!</string>
+</resources>
